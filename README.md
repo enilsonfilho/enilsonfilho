@@ -1,4 +1,4 @@
-### 🎈 Enilson Filho 🎈
+### Enilson Filho
 
 ##
 
