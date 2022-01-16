@@ -1,8 +1,5 @@
 ### Enilson Filho
 
-- 🔭 Desenvolvedor FullStack
-- 🌱 Em constante aprendizado 
-
 ##
 
 <div align="center">
