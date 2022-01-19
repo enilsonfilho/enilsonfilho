@@ -21,7 +21,10 @@
   <img align="center" alt="Enilson-Amazon" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img align="center" alt="Enilson-NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
-  
+
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=enilsonfilho&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="enilsonfilho" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=enilsonfilho&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="enilsonfilho" align = "center"/></p>
+
 ##
 
 ![Snake animation](https://github.com/enilsonfilho/enilsonfilho/blob/output/github-contribution-grid-snake.svg)
