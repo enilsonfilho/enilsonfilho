@@ -23,5 +23,9 @@
 </div>
 
 ##
+  
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=enilsonfilho&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="enilsonfilho" /></p>
+
+##
 
 ![Snake animation](https://github.com/enilsonfilho/enilsonfilho/blob/output/github-contribution-grid-snake.svg)
