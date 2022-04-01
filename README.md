@@ -6,6 +6,10 @@
 </div>
   
 ##
+  
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=enilsonfilho&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="enilsonfilho" /></p>
+
+##
 
 <div align="center"><br>
   <img align="center" alt="Enilson-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -21,7 +25,4 @@
   <img align="center" alt="Enilson-NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
 
-##
-  
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=enilsonfilho&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="enilsonfilho" /></p>
 
