@@ -7,11 +7,13 @@
   
 ##
   
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=enilsonfilho&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="enilsonfilho" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enilsonfilho&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="enilsonfilho" />
+</p>
 
 ##
 
-<div align="center"><br>
+<div align="center">
   <img align="center" alt="Enilson-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Enilson-Quarkus" src="https://img.shields.io/badge/Quarkus-DC143C?style=for-the-badge&logo=quarkus&logoColor=white">
   <img align="center" alt="Enilson-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -28,4 +30,8 @@
   <img align="center" alt="Enilson-NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
 
+##
 
+<div align="center">
+  <p><b><i>“Porque Deus amou o mundo de tal maneira, que deu o seu Filho Unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna” (João 3:16).</b></i></p>
+</div>
