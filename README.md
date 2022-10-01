@@ -15,6 +15,7 @@
   <img align="center" alt="Enilson-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Enilson-Quarkus" src="https://img.shields.io/badge/Quarkus-DC143C?style=for-the-badge&logo=quarkus&logoColor=white">
   <img align="center" alt="Enilson-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Enilson-JWT" src="https://img.shields.io/badge/JWT-4F4F4F?style=for-the-badge&logo=jwt&logoColor=black">
   <img align="center" alt="Enilson-CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Enilson-HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Enilson-JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
