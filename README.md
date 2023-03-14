@@ -28,6 +28,7 @@
   <img align="center" alt="Enilson-ApacheMaven" src="https://img.shields.io/badge/ApacheMaven-FF6347?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
   <img align="center" alt="Enilson-Amazon" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img align="center" alt="Enilson-NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img align="center" alt="Enilson-Jenkins" src="https://img.shields.io/badge/Jenkins-ED8B00?style=for-the-badge&logo=jenkins&logoColor=white">
 </div>
 
 ##
