@@ -35,5 +35,5 @@
 ##
 
 <div align="center">
-  <p><b><i>“Porque Deus amou o mundo de tal maneira, que deu o seu Filho Unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna” (João 3:16).</b></i></p>
+  <p><b><i>“For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life” (John 3:16).</b></i></p>
 </div>
