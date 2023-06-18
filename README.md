@@ -5,13 +5,9 @@
   </a>  
 </div>
   
-##
-  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enilsonfilho&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="enilsonfilho" />
 </p>
-
-##
 
 <div align="center">
   <img align="center" alt="Enilson-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -31,8 +27,6 @@
   <img align="center" alt="Enilson-Amazon" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img align="center" alt="Enilson-Jenkins" src="https://img.shields.io/badge/Jenkins-ED8B00?style=for-the-badge&logo=jenkins&logoColor=white">
 </div>
-
-##
 
 <div align="center">
   <p><b><i>“For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life” (John 3:16).</b></i></p>
