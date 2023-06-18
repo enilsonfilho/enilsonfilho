@@ -28,6 +28,7 @@
   <img align="center" alt="Enilson-Jenkins" src="https://img.shields.io/badge/Jenkins-ED8B00?style=for-the-badge&logo=jenkins&logoColor=white">
 </div>
 
+<br/>
 <div align="center">
   <p><b><i>“For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life” (John 3:16).</b></i></p>
 </div>
