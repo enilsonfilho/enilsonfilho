@@ -32,7 +32,6 @@
   <img alt="Enilson-Quarkus" src="https://img.shields.io/badge/Quarkus-DC143C?style=for-the-badge&logo=quarkus&logoColor=white" />
   <img alt="Enilson-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="Enilson-Flutter" src="https://img.shields.io/badge/Flutter-EE5C84?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img alt="Enilson-JWT" src="https://img.shields.io/badge/JWT-4F4F4F?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
   
   <img alt="Enilson-Kafka" src="https://img.shields.io/badge/Kafka-329100?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img alt="Enilson-RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-323700?style=for-the-badge&logo=rabbitMQ&logoColor=white" />
