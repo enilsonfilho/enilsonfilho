@@ -35,7 +35,6 @@
   
   <img alt="Enilson-Kafka" src="https://img.shields.io/badge/Kafka-329100?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img alt="Enilson-RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-323700?style=for-the-badge&logo=rabbitMQ&logoColor=white" />
-  <img alt="Enilson-NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="Enilson-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Enilson-MySQL" src="https://img.shields.io/badge/MySQL-GGDASQ?style=for-the-badge&logo=mysql&logoColor=white" />
 
