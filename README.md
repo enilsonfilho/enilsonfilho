@@ -30,7 +30,7 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,flutter,postgres,mysql,redis,gcp,docker,jenkins,maven,kafka" />
+  <img src="https://skillicons.dev/icons?i=java,spring,flutter,postgres,mysql,redis,gcp,docker,jenkins,maven,rabbitmq" />
 </p>
 
 <br>
