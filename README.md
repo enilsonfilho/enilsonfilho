@@ -1,6 +1,8 @@
 <h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
+  <br><br>
+  
   <img width="49%" src="https://streak-stats.demolab.com?user=enilsonfilho&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
   
   <br><br>
